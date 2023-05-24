@@ -1,4 +1,10 @@
-header { 
-    background-color: navy;
-    color: white;
+body{
+    background-color: #3e4d4e;
+    color: rgb(255, 255, 255)
 }
+.cabecalho {
+    background-color: #000000;
+    color: white;
+    display:flex;
+    justify-content: space-around;
+    }
