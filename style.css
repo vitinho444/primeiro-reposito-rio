@@ -1,10 +1,55 @@
 body{
-    background-color: #3e4d4e;
+    background-color: #2c928d;
     color: rgb(255, 255, 255)
 }
 .cabecalho {
-    background-color: #000000;
+    background-color: #383D58;
     color: white;
     display:flex;
     justify-content: space-around;
+    align-items: center;
+    padding: 24px 0;
     }
+
+.escola-imagem{
+    width: 20%;
+}
+
+.cabecalho-lista-item{
+    display: inline-block;
+    margin: 0 16px;
+    font-size: 24px;
+}
+
+   .formula {
+        width:10%;
+        height:40% ;
+        }
+.escola-imagem {
+    width: 25%;
+}
+
+.estudantes {
+   width: 288px;
+}
+.foto-perfil {
+    width: 192px;
+}
+.perfil-foto {
+    width: 161px;
+} 
+.jose{
+    width: 302px;
+}
+.gaby {
+    width: 162px;
+}
+.monique{
+    width: 295px;
+}
+.gustavo{
+    width: 270px;
+}
+.instagram{
+    width: 20px;
+}
